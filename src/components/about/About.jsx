@@ -36,7 +36,7 @@ const About = () => {
             <small>500+ Completed</small>
           </article>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis semper leo in congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus eros ut eros eleifend, posuere rutrum ligula convallis.</p>
+        <p>I'm a straightforward person who grew up in Bangladesh's little town of Noakhali. I was an ordinary student who attended the local public schools from kindergarten through college. I enjoy learning new stuff constantly. </br>I work at a production studio that works with marketing and advertising firms from all over the world, where I can further my career.</p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
